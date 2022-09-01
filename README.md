@@ -1,3 +1,3 @@
 # tinder-clone
 
-A MERN built copy of Tinder powered by Firebase
+A MERN built clone of Tinder powered by Firebase
